@@ -17,6 +17,7 @@ Unofficial Linux app to grant access to missiveapp.com
 
 ## Issues
 + Login with G-suite Not Working (Google Unknown Browser Detection)
+> **Google will no longer allow OAuth requests to Google in embedded browsers**
 + Some Missive commands not working
 
 ## Preview
