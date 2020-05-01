@@ -1,5 +1,10 @@
 # Missiveapp Linux
 Unofficial Linux app to grant access to missiveapp.com
+>For reasons of not having a version of **MissiveApp for Linux environments** I have decided to create an app that can give me this great tool and use it.
+>
+>**It is not my intention to earn 💰️money with this application that already has an owner,** but if you liked my work, your contribution is well received 😁️, my daughter and I will be grateful ❤️.
+
+**I hope you enjoy it!** 🎉️
 
 [Download Version 1.0.1](https://github.com/HeribertoKubuntu/missiveapp_linux/releases/download/v1.0.1/missiveapplinux-1.0.1-x86_64.AppImage)
 
